@@ -7,14 +7,16 @@
 
 - 🌱 I’m currently learning **ROS|Deep_Learning|Embedded_System**
 
+- 💬 Ask me about **Industrial Automation and Robotics**
+
 - 📫 How to reach me **jagadeeshdinesh143@gmail.com**
 
 - ⚡ Fun fact **I AM ENGINEER**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jagadeeshwaran-t-38734b14b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagadeeshwaran t" height="30" width="40" /></a>
-<a href="https://fb.com/jagadeesh.dinesh.75/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jagadeeshwaran thagaraj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jagadeeshwaran-t-38734b14b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagadeeshwaran-t-38734b14b" height="30" width="40" /></a>
+<a href="https://fb.com/jagadeesh.dinesh.75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jagadeesh.dinesh.75" height="30" width="40" /></a>
 <a href="https://instagram.com/soulless_fellow_143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soulless_fellow_143" height="30" width="40" /></a>
 </p>
 
