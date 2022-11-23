@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **GAME**
 
-- 🌱 I’m currently learning **ROS|Deep_Learning|Embedded_System**
+- 🌱 I’m currently learning **ROS|Deep_Learning|OpenCV**
 
 - 💬 Ask me about **Industrial Automation and Robotics**
 
